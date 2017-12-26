@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CountDownTimerDemo</string>
+
+    <string name="editTextHint">Enter Time in Seconds</string>
+    <string name="startCountDown">Start Count Down</string>
+    <string name="stopCountDown">Stop Count Down</string>
+    <string name="resumeCountDown">Resume Count Down</string>
+
+</resources>
